@@ -1,0 +1,5 @@
+node_modules/
+
+#configurations
+#google firebase service account key...
+config/path/to
